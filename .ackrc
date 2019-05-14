@@ -1,0 +1,8 @@
+--type-set=cf=.cf
+--type-set=cf3=.cf3
+--type-set=conf=.conf
+--type-set=cfg=.cfg
+--type-set=tpl=.tpl
+--type-set=ps1=.ps1
+--type-set=j2=.j2
+--type-set=tf=.tf
